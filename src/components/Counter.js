@@ -17,7 +17,7 @@ function Counter(props){
             return prevCount + 1;
         })
         
-        //For second counter which displays an alert as well
+        //For the second counter which displays an alert as well
         if (props.message === "alert"){
             alert("Counter Incremented")
         }
