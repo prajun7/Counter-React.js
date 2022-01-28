@@ -16,6 +16,8 @@ function Counter(props){
         setCount(prevCount => {
             return prevCount + 1;
         })
+        
+        //For second counter which displays an alert as well
         if (props.message === "alert"){
             alert("Counter Incremented")
         }
