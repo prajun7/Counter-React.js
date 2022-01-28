@@ -1,7 +1,8 @@
 # Counter
 
-CreateasimplecounterapplicationusingReact.Thepageshouldcontain2
-counters side by side. Each counter will have an increment and decrement button. For the first counter, pressing the increment and decrement button will do the operation as is. But for the second counter, despite following the button operations, it will also show an alert window each time the counter buttons are clicked saying “Counter incremented” or “Counter decremented”, depending on the operation. Avoid code repetition, make a reusable Counter component.
+Createing counter application using React.
+The page has 2 counters which are side by side.
+Each counter will have an increment and decrement button. For the first counter, pressing the increment and decrement button will do the operation as is. But for the second counter, despite following the button operations, it will also show an alert window each time the counter buttons are clicked saying “Counter incremented” or “Counter decremented”, depending on the operation. Avoid code repetition, make a reusable Counter component.
 
 
 
