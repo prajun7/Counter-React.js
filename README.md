@@ -5,7 +5,6 @@ Each counter has an increment and decrement button.
 - For the first counter, pressing the increment and decrement button will do the operation as is. 
 - But for the second counter, despite following the button operations, it will also show an alert window each time the counter buttons are clicked saying “Counter incremented” or “Counter decremented”, depending on the operation. 
 
-
 I am creating a reusable Counter component that avoids repetition of the code by passing the props.<br>
 I am using the same counter component without any modification to achieve the functionalities for both counters.
 
